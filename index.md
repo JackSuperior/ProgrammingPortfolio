@@ -31,7 +31,7 @@ Source code and Windows executable file located at [this link](https://github.co
 
 A Madlib style application coded in C++ (Made using Replit in Q1 of 2021).
 
-![C++ Madlib](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/mad.PNG)
+![C++ Madlib](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/mad.PNG?raw=true)
 
 Source code located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/C%2B%2B%20Madlib)
 
@@ -39,6 +39,6 @@ Source code located at [this link](https://github.com/JackSuperior/ProgrammingPo
 
 A worthless but fun application coded in C++ (Made using Replit in Q1 of 2021).
 
-![NGG](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/guess.PNG)
+![NGG](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/guess.PNG?raw=true)
 
 Source code located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/NumberGuessingGame)
