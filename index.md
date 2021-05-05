@@ -1,5 +1,5 @@
 # Jack Mayville's Programming Portfolio for Mr. Kapptie B-4 2021
-Type a bio. [Jack Mayville]{mailto:jackmayv9638@granitesd.org}
+Type a bio. [Jack Mayville](mailto:jackmayv9638@granitesd.org)
 
 ## Processing Projects
 
