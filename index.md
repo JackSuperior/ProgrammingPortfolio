@@ -18,3 +18,11 @@ An OOP calculator coded in Java (Made using Processing in Q4 of 2020).
 ![Java Calculator](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/calculato.PNG?raw=true)
 
 Source code and Windows executable file located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/Calculator)
+
+### Etch-A-Sketch
+
+An Etch-A-Sketch style art application coded in Java (Made using Processing in Q3 of 2020).
+
+![Etch-A-Sketch](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/line-000481.png?raw=true)
+
+Source code and Windows executable file located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/Etch-A-Sketch)
