@@ -26,3 +26,11 @@ An Etch-A-Sketch style art application coded in Java (Made using Processing in Q
 ![Etch-A-Sketch](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/line-000481.png?raw=true)
 
 Source code and Windows executable file located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/Etch-A-Sketch)
+
+### C++ Madlib
+
+An Madlib style application coded in C++ (Made using Replit in Q1 of 2021).
+
+![C++ Madlib](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/mad.png?raw=true)
+
+Source code located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/C++ Madlib)
