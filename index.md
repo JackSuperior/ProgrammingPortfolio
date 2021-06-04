@@ -27,6 +27,8 @@ An Etch-A-Sketch style art application coded in Java (Made using Processing in Q
 
 Source code and Windows executable file located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/Etch-A-Sketch)
 
+## C++ (Replit) Projects
+
 ### C++ Madlib
 
 A Madlib style application coded in C++ (Made using Replit in Q1 of 2021).
@@ -42,3 +44,11 @@ A worthless but fun application coded in C++ (Made using Replit in Q1 of 2021).
 ![NGG](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/guess.PNG?raw=true)
 
 Source code located at [this link](https://github.com/JackSuperior/ProgrammingPortfolio/tree/gh-pages/src/NumberGuessingGame)
+
+### C++ Shape Generator
+
+A console based application coded in C++ made to visualize three types of shapes based on user given input. (Made using Replit in Q2 of 2021).
+
+![ShapeGen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapeupd.PNG)
+
+Source code located at [this link](https://github.com/JackSuperior/Finalproject/tree/gh-pages) (most recent update is in the srcPHASETHREESUB folder).
