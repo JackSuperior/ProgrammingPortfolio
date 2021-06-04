@@ -49,7 +49,7 @@ Source code located at [this link](https://github.com/JackSuperior/ProgrammingPo
 
 A console based application coded in C++ made to visualize three types of shapes based on user given input. (Made using Replit in Q2 of 2021).
 
-![ShapeGen](https://github.com/JackSuperior/Finalproject/blob/gh-pages/src/shapeupd.PNG)
+![ShapeGen](https://github.com/JackSuperior/ProgrammingPortfolio/blob/gh-pages/image/shapeupd.PNG?raw=true)
 
 Source code located at [this link](https://github.com/JackSuperior/Finalproject/tree/gh-pages) (most recent update is in the srcPHASETHREESUB folder).
 
