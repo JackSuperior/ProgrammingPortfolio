@@ -1,7 +1,7 @@
 # Jack Mayville's Programming Portfolio for Mr. Kapptie B-4 2021
 I'm Jack Mayville, I know how to code in both Java (via Processing) and C++ (via Replit). This is my portfolio, presenting all of my greater creations made in Mr. Kapptie's class during the span of Q3 2020 - Q2 2021 [Jack Mayville](mailto:jackmayv9638@granitesd.org)
 
-## Processing Projects
+## Java (Processing) Projects
 
 ### Space-Game
 
